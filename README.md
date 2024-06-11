@@ -1,6 +1,5 @@
-# Solaris
-
-Solaris é um aplicativo Flutter para monitoramento e integração com dispositivos IoT.
+# Dimen. Energia Solar em IOT
+Dimen. Energia Solar em IOT é um aplicativo Flutter para monitoramento e integração com dispositivos IoT.
 
 ## Executando o Aplicativo
 
