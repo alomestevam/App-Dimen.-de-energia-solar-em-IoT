@@ -1,0 +1,10 @@
+# Flutter/Dart related files
+build/
+*.apk
+*.ipa
+*.app
+
+# Other files
+*.so
+*.dll
+*.dylib
