@@ -11,7 +11,7 @@ Certifique-se de ter o Flutter instalado em seu sistema. Você pode encontrar in
 ### Clonando o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/solaris.git
+git clone https://github.com/alomestevam/App-Dimen.-de-energia-solar-em-IoT.git
 cd solaris
 flutter pub get
 flutter build apk  
