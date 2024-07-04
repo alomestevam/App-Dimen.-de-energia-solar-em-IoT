@@ -14,7 +14,7 @@ dependencies:
   shared_preferences: ^2.0.9
   path_provider: ^2.0.2
   sqflite: ^2.0.0+3
-  
+  flutter_native_splash: ^2.0.5 # Adiciona esta linha
 
 dev_dependencies:
   lints: ^3.0.0
@@ -28,8 +28,15 @@ flutter:
   assets:
     - assets/fundo.jpg
     - assets/logo.jpg
-    - assets/back_arrow.png
+    
+
 flutter_icons:
   android: true
   ios: true
-  image_path: "assets/back_arrow.png" # Caminho para o seu ícone
+  image_path: "assets/logo.jpg" # Atualize o caminho do ícone
+
+flutter_native_splash:
+  color: "#ffffff" # Cor de fundo da splash screen
+  image: assets/fundo.jpg # Caminho para a imagem da splash screen
+  android: true
+  ios: true
